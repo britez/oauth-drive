@@ -1,0 +1,10 @@
+.project
+.classpath/
+.metadata/
+target/
+.settings/
+.log
+
+/oauth-drive/target-eclipse
+/oauth-drive/.classpath
+

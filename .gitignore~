@@ -1,0 +1,10 @@
+.project
+.classpath/
+.metadata/
+target/
+.settings/
+.log
+
+/fnxTracker/target-eclipse
+/fnxTracker/.classpath
+
